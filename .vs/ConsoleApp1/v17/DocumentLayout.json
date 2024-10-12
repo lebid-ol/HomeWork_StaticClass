@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{DE1D875D-AE80-484C-909A-8AF754032720}|ConsoleApp1\\HomeWork_StaticClass.csproj|solutionrelative:consoleapp1\\stringutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DE1D875D-AE80-484C-909A-8AF754032720}|ConsoleApp1\\HomeWork_StaticClass.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_staticclass\\homework_staticclass\\consoleapp1\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1D875D-AE80-484C-909A-8AF754032720}|ConsoleApp1\\HomeWork_StaticClass.csproj|solutionrelative:consoleapp1\\mathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE1D875D-AE80-484C-909A-8AF754032720}|ConsoleApp1\\HomeWork_StaticClass.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_staticclass\\homework_staticclass\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE1D875D-AE80-484C-909A-8AF754032720}|ConsoleApp1\\HomeWork_StaticClass.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathHelper.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_StaticClass\\HomeWork_StaticClass\\ConsoleApp1\\MathHelper.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MathHelper.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_StaticClass\\HomeWork_StaticClass\\ConsoleApp1\\MathHelper.cs",
+              "RelativeToolTip": "ConsoleApp1\\MathHelper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:25:18.827Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\StringUtils.cs",
               "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_StaticClass\\HomeWork_StaticClass\\ConsoleApp1\\StringUtils.cs",
               "RelativeToolTip": "ConsoleApp1\\StringUtils.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T17:31:25.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_StaticClass\\HomeWork_StaticClass\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
@@ -43,7 +60,8 @@
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T16:48:03.566Z"
+              "WhenOpened": "2024-10-12T16:48:03.566Z",
+              "EditorCaption": ""
             }
           ]
         }

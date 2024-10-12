@@ -6,24 +6,24 @@ using System.Threading.Tasks;
 
 namespace HomeWork_StaticClass
 {
-    internal class MathHelper
+    internal static class MathHelper
     {
-        public static int Addition(int a, int b)
+        internal static int Addition(int a, int b)
         {
             return a + b;
         }
 
-        public static int Subtraction(int a, int b)
+        internal static int Subtraction(int a, int b)
         {
             return a - b;
         }
 
-        public static int Multiplication(int a, int b)
+        internal static int Multiplication(int a, int b)
         {
             return a * b;
         }
 
-        public static int Division(int a, int b)
+        internal static int Division(int a, int b)
         {
             if (b == 0)
             {

@@ -20,7 +20,7 @@ namespace HomeWork_StaticClass
 
         }
 
-        //реализация реверса через цикл
+        //реализация реверса строки через цикл
         public static string ReverseString2()
         {
             Console.WriteLine("Введите свою строку для реверса: ");
